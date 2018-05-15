@@ -1,0 +1,9 @@
+.DS_Store
+*.psd
+*.sh
+
+css/*
+!/css/all.min.css
+
+img/*
+!/img/luisa-azevedo-344366-unsplash-25q.jpg
